@@ -6637,28 +6637,6 @@
     "authorLink": "https://monkeyball-online.pages.dev/"
   },
   {
-    "id": 750,
-    "name": "Five Nights at Last Breath",
-    "cover": "{COVER_URL}/750.png",
-    "url": "{HTML_URL}/750-u.html",
-    "author": "Free_Breath",
-    "authorLink": "https://free-breath.itch.io/five-night-at-last-breath-epstein",
-    "special": [
-      "port"
-    ]
-  },
-  {
-    "id": 751,
-    "name": "Jeffrey Epstein Basics In Education And Kidnapping",
-    "cover": "{COVER_URL}/751.png",
-    "url": "{HTML_URL}/751.html",
-    "author": "Zakaria_ALZ",
-    "authorLink": "https://zakaria-alz.itch.io/jeffrey-epsteins-basics-in-education-and-kidnapping",
-    "special": [
-      "port"
-    ]
-  },
-  {
     "id": 752,
     "name": "Bad Piggies",
     "cover": "{COVER_URL}/752.png",
